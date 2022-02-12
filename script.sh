@@ -1,0 +1,7 @@
+#! /bin/bash
+
+MAXCLIENTES="25"
+export MAXCLIENTES
+
+MAXMEDICOS="5"
+export MAXMEDICOS
